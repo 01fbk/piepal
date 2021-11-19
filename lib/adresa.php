@@ -5,15 +5,15 @@ ob_start();
 $url = "https://www.presto-pizza.ro/api/v2/address";
 
 $data = array(
-	"app" => "3", //apartament
-    "bloc" => "1", //bloc
+	"app" => "32", //apartament
+    "bloc" => "11", //bloc
 	"city" => "62688ad7-c13f-11e7-898d-005056913825", //Popesti Leordeni
 	"etaj" => "0", //etaj
 	"info" => "acesta este un test", //informatii aditionale adresa
 	"interfon" => "03", //interfon
 	"latitude" => "44.3637484", //latitudine gmaps
 	"longitude" => "26.1484904", //longitudine gmaps
-	"number" => "20", //numarul strazii
+	"number" => "220", //numarul strazii
 	"scara" => "A", //scara
 	"sector" => null, //sector daca exista
 	"street" => "Strada ta", //strada
