@@ -16,7 +16,7 @@ $data = array(
 	"number" => "20", //numarul strazii
 	"scara" => "A", //scara
 	"sector" => null, //sector daca exista
-	"street" => "Strada Popesti Vest", //strada
+	"street" => "Strada ta", //strada
 	"valid" => true,
 );
 
